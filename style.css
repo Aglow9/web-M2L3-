@@ -1,10 +1,20 @@
 body{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Inter';
     font-size: 16px;
-    background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
-    color: rgb(0, 123, 200);
+    background-color: rgb(40, 51, 73);
+    color: rgb(40, 51, 73);
     h1{
-        color: rgb(123, 45, 123);
+        color: rgb(241, 69, 150);
+    }
+
+    h2{
+        color: rgb(4, 148, 231);
+    }
+    h3{
+        color: rgb(101, 250, 2);
+    }
+    h4{
+        color: rgb(255, 255, 255);
     }
     
 }
